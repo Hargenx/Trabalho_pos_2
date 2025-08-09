@@ -6,7 +6,7 @@
 - **Professor**: Raphael Mauricio Sanches de Jesus
 - **Email**: <raphael.jesus@estacio.br>
 - **Período**: Pós-Graduação  
-- **Data de Entrega**: ~30/03/2025~
+- **Data de Entrega**: 23/08/2025
 
 ---
 
@@ -67,8 +67,11 @@ Escreva um código que descreva um job MapReduce para realizar a mesma tarefa de
 - **Organização:** A estrutura do relatório e a apresentação das respostas devem ser organizadas e objetivas.
 
 ---
+Coolab aula 01 - https://colab.research.google.com/drive/1GwlG912lbdBRAKdYjoKZwU57edQD8H_7?usp=sharing
 
+Aula 2:
 Exemplo hadoop: https://colab.research.google.com/drive/1kxHuC_wf804aKDSJvHikCqyDv9CS4b_8?usp=sharing
+
 Exemplo PySpark: https://colab.research.google.com/drive/12fXM9G0OPbvNoUPRFhBoSIafXUTpdtor?usp=sharing
 
 Boa avaliação!
